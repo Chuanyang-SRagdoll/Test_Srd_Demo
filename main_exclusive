@@ -1,5 +1,11 @@
 main_exclusive file.
 Test to see if this file gets sync auto whne Bob made a Pull request to my SRD Branch_01
 
+
+Test Result:
+          
+            This file got synced even it is under main branch.
+
 Test time： 2 second.
 Test time： 3
+
